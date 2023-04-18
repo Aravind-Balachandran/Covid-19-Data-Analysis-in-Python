@@ -15,12 +15,12 @@ To run this project, you will need:
 3.	Do the data analysis using python and its libraries to get the insights from the dataset
 4.  After reading and cleaning the data, create visualizations using seaborn, matplotlib, and plotly.express.
 5.  The visualizations include:
-- A bar plot showing the top 10 states with the most active COVID-19 cases in India.
+    - A bar plot showing the top 10 states with the most active COVID-19 cases in India.
 - A bar plot showing the top 10 states with the most deaths due to COVID-19 in India.
 - A line plot showing the growth trends of the top 5 affected states in India.
 - A pie chart showing the distribution of male and female vaccination in India.
 - A bar plot showing the top 5 vaccinated states in India.
 - A bar plot showing the least 5 vaccinated states in India.
 
-Credits
+### Credits
 Dataset Link: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india
