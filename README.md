@@ -6,8 +6,8 @@ The COVID-19 in India dataset available on Kaggle is a comprehensive collection 
 
 ### Requirements
 To run this project, you will need:
--	Python, and its libraries like: pandas, NumPy, matplotlib, seaborn, plotly
--	Covid-19 in India dataset, which can be downloaded from Kaggle
+   - Python, and its libraries like: pandas, NumPy, matplotlib, seaborn, plotly
+   - Covid-19 in India dataset, which can be downloaded from Kaggle
 
 ### Instructions
 1.	Download and unzip the dataset from Kaggle
