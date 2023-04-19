@@ -22,5 +22,8 @@ To run this project, you will need:
     - A bar plot showing the top 5 vaccinated states in India.
     - A bar plot showing the least 5 vaccinated states in India.
 
+#### Conclusion
+The objective of this project was to perform an in-depth analysis of COVID-19 and vaccination data in India, with the goal of gaining insights that could be useful for policymakers and healthcare professionals. By examining the COVID-19 data, we were able to identify the states that were most impacted by the pandemic, as well as the growth trends in the top 5 affected states. By analyzing the vaccination data, we were able to identify the gender distribution of vaccinations and the states with the highest and lowest vaccination rates. These findings can help inform decision-making and resource allocation strategies aimed at mitigating the impact of COVID-19 in India.
+
 #### Credits
 Dataset Link: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india
