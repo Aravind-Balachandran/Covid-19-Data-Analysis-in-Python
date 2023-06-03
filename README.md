@@ -1,4 +1,4 @@
-### COVID-19 India Data Analysis and Visualization with Python
+### Covid-19 India Data Analysis and Visualization with Python
 This is a data analysis and visualization project on COVID-19 cases and vaccination data in India. The purpose of this project is to explore and gain insights from COVID-19 data and vaccine data for India.
 
 #### Dataset
